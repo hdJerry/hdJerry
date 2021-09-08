@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://assets.audiomack.com/damilolajerryhd/aa2072dcaee4057dfd0d3521542e2fb790c1790fb166dd877f35cdbb20b2ce79.jpeg?width=140&height=140&max=true)
+![]https://www.dropbox.com/s/5e6ni8dwugtzf27/hogan2-min.jpg?raw=1?width=140&height=140&max=true)
 <br>
 <br>
 I'm Jerry Hogan a Software Developer and A musician
