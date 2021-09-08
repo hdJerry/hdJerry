@@ -5,7 +5,7 @@
 I'm Jerry Hogan a Software Developer and A musician
 - 🔭 I’m currently working on a contribution platform called [Femstaf](https://femstaf.com)
 - 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on Vue projects and any Javascript project
+- 👯 I’m looking to collaborate on Vue or React projects and any Javascript project
 - 🤔 I’m looking for help with getting better on contributing to Open Source
 - 💬 Ask me about on Google :sweat_smile:
 - 📫 How to reach me: Email: damilolajerryhd@gmail.com, Phone: 07030995296
