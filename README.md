@@ -1,5 +1,5 @@
 ### Hi there 👋
-![]https://www.dropbox.com/s/5e6ni8dwugtzf27/hogan2-min.jpg?raw=1?width=140&height=140&max=true)
+![](https://www.dropbox.com/s/5e6ni8dwugtzf27/hogan2-min.jpg?raw=1?width=140&height=140&max=true)
 <br>
 <br>
 I'm Jerry Hogan a Software Developer and A musician
