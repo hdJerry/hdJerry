@@ -3,14 +3,15 @@
 <br>
 <br>
 I'm Jerry Hogan a Software Developer and A musician
-- 🔭 I’m currently working on a contribution platform called [Femstaf](https://femstaf.com)
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working on a contribution platform called [ToNote](https://tonote-website.enyata.com) website with [Lani](https://github.com/LaniJ)
+- 🌱 I’m currently looking at learning AR or VR
 - 👯 I’m looking to collaborate on Vue or React projects and any Javascript project
 - 🤔 I’m looking for help with getting better on contributing to Open Source
 - 💬 Ask me about on Google :sweat_smile:
 - 📫 How to reach me: Email: damilolajerryhd@gmail.com, Phone: 07030995296
 - 😄 Pronouns: Future
 - ⚡ Fun fact: I do Gospel music, which can be seen on [My Audiomack Profile](https://audiomack.com/jerry_hogan)
+- My personal website is [Jerry Hogan](https://music-jerryhogan.vercel.app) build with #React, #Styled-Component, #Tailwind
 
 ### Social Media
 
