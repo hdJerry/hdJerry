@@ -11,7 +11,7 @@ I'm Jerry Hogan a Software Developer and A musician
 - 📫 How to reach me: Email: damilolajerryhd@gmail.com, Phone: 07030995296
 - 😄 Pronouns: Future
 - ⚡ Fun fact: I do Gospel music, which can be seen on [My Audiomack Profile](https://audiomack.com/jerry_hogan)
-- My personal website is [Jerry Hogan](https://music-jerryhogan.vercel.app) build with #React, #Styled-Component, #Tailwind
+- My personal website is [Jerry Hogan](https://music-jerryhogan.vercel.app) built with #React, #Styled-Component, #Tailwind
 
 ### Social Media
 
