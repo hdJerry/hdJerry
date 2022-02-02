@@ -7,7 +7,7 @@ I'm Jerry Hogan a Software Developer and A musician
 - 🌱 I’m currently looking at learning AR or VR
 - 👯 I’m looking to collaborate on Vue or React projects and any Javascript project
 - 🤔 I’m looking for help with getting better on contributing to Open Source
-- 💬 Ask me about on Google :sweat_smile:
+- 💬 Ask about me on Google :sweat_smile:
 - 📫 How to reach me: Email: damilolajerryhd@gmail.com, Phone: 07030995296
 - 😄 Pronouns: Future
 - ⚡ Fun fact: I do Gospel music, which can be seen on [My Audiomack Profile](https://audiomack.com/jerry_hogan)
