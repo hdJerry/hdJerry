@@ -3,7 +3,6 @@
 <br>
 <br>
 I'm Jerry Hogan a Software Developer and A musician
-- 🔭 I’m currently working on a contribution platform called [ToNote](https://tonote-website.enyata.com) website with [Lani](https://github.com/LaniJ)
 - 🌱 I’m currently looking at learning AR or VR
 - 👯 I’m looking to collaborate on Vue or React projects and any Javascript project
 - 🤔 I’m looking for help with getting better on contributing to Open Source
